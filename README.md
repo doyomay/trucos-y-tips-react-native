@@ -3,7 +3,7 @@ Trucos en español para react native
 
 **Lista**
 
-[TOC]
+[[_TOC_]]
 
 
 #Crear simulador de ios y correrlo desde consola
