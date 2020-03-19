@@ -1,10 +1,10 @@
 # Trucos y tips para react-native
 Trucos en español para react native
 
-###contenido
+### contenido
 1. [Crear simulador de ios y correrlo desde consola](#Crear-simulador-de-ios-y-correrlo-desde-consola)
 
-##Crear simulador de ios y correrlo desde consola
+## Crear simulador de ios y correrlo desde consola
 *Ideal para cuando tienes escasos recursos*
 
 crear un simulador con un iphone SE
